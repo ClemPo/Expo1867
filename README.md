@@ -1,3 +1,3 @@
 # Expo1867
 
-Test for remote tiles folder to use under leaflet for R.
+Test for remote tiles files.
