@@ -1,3 +1,3 @@
 # Expo1867
 
-Test for remote tiles files.
+Project for remote tile server for old maps (arbitrary coordinate system).
